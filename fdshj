@@ -1,0 +1,23 @@
+Documentation/target/tcm_mod_builder.txt[36m:[m>>>>>>>>>> The TCM v4 fabric module script generator [1;31m<<<<[m[1;31m<<<<[m<<
+arch/arm/configs/msm8974_defconfig[36m:[m[1;31m<<<<[m<<< HEAD
+arch/m68k/tools/amiga/dmesg.c[36m:[m	puts("[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m");
+drivers/acpi/acpica/exoparg3.c[36m:[m				  "FatalOp: Type %X Code %X Arg %X [1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<<<\n",
+drivers/input/tablet/gtco.c[36m:[m	dbg("======>>>>>>PARSE[1;31m<<<<[m<<======");
+drivers/input/tablet/gtco.c[36m:[m				dbg("[1;31m<<<<[m<<======");
+drivers/media/rc/keymaps/rc-apac-viewcomp.c[36m:[m	{ 0x18, KEY_KPMINUS },		/* fine tune [1;31m<<<<[m */
+drivers/media/rc/keymaps/rc-norwood.c[36m:[m	{ 0x6c, KEY_KPMINUS },		/* (not named [1;31m<<<<[m<)   */
+drivers/net/wan/pc300-falc-lh.h[36m:[m/*>>>>>>>>>>>>>>>>>  FALC Register Bits (Transmit Mode)  [1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<<< */
+drivers/net/wan/pc300-falc-lh.h[36m:[m/*>>>>>>>>>>>>>>>>>>>>>  Local Control Structures  [1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m< */
+drivers/scsi/aic7xxx/aic79xx_core.c[36m:[m	printk(">>>>>>>>>>>>>>>>>> Dump Card State Begins [1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<\n"
+drivers/scsi/aic7xxx/aic79xx_core.c[36m:[m	printk("\n[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m< Dump Card State Ends >>>>>>>>>>>>>>>>>>\n");
+drivers/scsi/aic7xxx/aic7xxx_core.c[36m:[m	printk(">>>>>>>>>>>>>>>>>> Dump Card State Begins [1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<\n"
+drivers/scsi/aic7xxx/aic7xxx_core.c[36m:[m	printk("\n[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m< Dump Card State Ends >>>>>>>>>>>>>>>>>>\n");
+drivers/staging/wlags49_h2/debug.h[36m:[m#define _LEAVE_STR          "[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<<"
+drivers/staging/wlags49_h2/hcf.c[36m:[m *   HCF_ERR_TO_BE_ADDED [1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<<<
+drivers/staging/wlags49_h2/mdd.h[36m:[m * HFS_TX_CNTL_TX_OK            0002    0002 |  0002    0002     N/A    [1;31m<<<<[m[1;31m<<<<[mdeprecated
+drivers/target/target_core_configfs.c[36m:[m	pr_debug("[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<< BEGIN FABRIC API >>>>>>>>"
+drivers/target/target_core_configfs.c[36m:[m	pr_debug("[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<< END FABRIC API >>>>>>>>>>>>"
+drivers/target/target_core_configfs.c[36m:[m	pr_debug("[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<< BEGIN FABRIC API >>>>>>>>>>"
+drivers/target/target_core_configfs.c[36m:[m	pr_debug("[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m[1;31m<<<<[m<< END FABRIC API >>>>>>>>>>>>>>>>>"
+fs/ext4/namei.c[36m:[m[1;31m<<<<[m<<< HEAD
+net/rxrpc/ar-input.c[36m:[m			_debug("[1;31m<<<<[m TERMINAL MESSAGE >>>>");
